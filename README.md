@@ -1,5 +1,6 @@
-## Hi there 👋
+![Github Profile README](https://github.com/user-attachments/assets/ebce7fd6-5670-4214-b592-7471a5831a49)
 
+## Hi, I'm Rygel!
 <!--
 **rygelyance/rygelyance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

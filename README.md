@@ -11,8 +11,10 @@ These are the main tools and languages that I have used and learned through both
 ![Code tools](https://github.com/user-attachments/assets/3e140b49-a22c-4748-a785-b176a5a4a89c)
 
 ## Contact Info
-[![LinkedIn_logo_initials](https://github.com/user-attachments/assets/4ecb5025-4f7c-410f-b2b8-4760a8f76ebf)](https://www.linkedin.com/in/rygel-tristen-yance/)
+[![LinkedIn_logo_initials](https://github.com/user-attachments/assets/d2966e7c-261f-4937-b1aa-f7d18636835e)](https://www.linkedin.com/in/rygel-tristen-yance/)
+
 Phone: +1 443-805-7268
+
 Email: rygelyance1@gmail.com
 
 

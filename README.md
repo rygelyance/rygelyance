@@ -4,7 +4,7 @@
 
 Currently, I'm an undergraduate student at the University of Maryland: College Park, and I'm pursing a double BS in Computer Science and Mathematics, with specializations in Machine Learning and Statistics! During the summer of 2024, I was an undergraduate research intern for UMD's Immersive Research Internship Experience (IRIE).
 
-I've always been interested in tech and its capabilities, and with harware becoming more and more powerful and specialized, the need for more capable software is at an all-time high. I'd like to one day play a role in leveraging what's possible with technology while making it reliable and easy to use.
+I've always been interested in tech and its capabilities, and with hardware becoming more and more powerful and specialized, the need for more capable software is at an all-time high. I'd like to one day play a role in leveraging what's possible with technology while making it reliable and easy to use.
 
 ## Tools
 These are the main tools and languages that I have used and learned through both personal projects and academia.

@@ -4,7 +4,7 @@
 
 I recently graduated from the University of Maryland, College Park, and I've received a double BS in Computer Science and Mathematics, with specializations in Machine Learning and Statistics! During the summer of 2024, I was an undergraduate research intern for UMD's Immersive Research Internship Experience (IRIE). Currently, I'm looking for my first job, and I'm mainly looking towards roles in the field of data science.
 
-I've always been interested in tech and its capabilities, and through some of the projects I've worked on, I've seen the power that data has to influence the world. My professional goal is to use the data from today to help make the world a little better tomorrow! There's so much we can learn from the world right now, and that's why the field of data science is the one that's appealed to me the most for some time now.
+I've always been interested in tech and its capabilities, and through some of the projects I've worked on, I've seen the power that data has to influence the world. My professional goal is to use the data from today to help make the world a little better tomorrow! There's so much we can learn from the world right now, and that's why the field of data science is the one that's appealed to me the most!
 
 ## Tools
 These are the main tools and languages that I have used and learned through both personal projects and academia.

@@ -67,16 +67,3 @@ I've always been interested in tech and its capabilities, and through some of th
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Despite my focus on the "new" in my work, I love "old" technologies, such as mechanical watches and nixie tubes!
 
-## 📈 GitHub Contribution Graph:
-
-<div align="center">
-    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=rygelyance&theme=minimal"/>
-</div>
-<br>
-
-## 📊 GitHub Stats:
-
-<div align="center">
-<img alt="Rygel's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=rygelyance&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='85%' />
-</div>
-<br>

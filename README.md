@@ -6,17 +6,6 @@ I'm an **aspiring Data Scientist** with a focus on **actionable insights and dat
 
 I've always been interested in tech and its capabilities, and through some of the projects I've worked on, I've seen the power that data has to influence the world. My professional goal is to use the data from today to help make the world a little better tomorrow!
 
-## Facts About Me:
-
-- 🔭 Currently working on several projects using real-world data!
-- 🌱 Expanding my knowledge on time-series analysis and prediction.
-- 👯 I’m looking to collaborate on any project using data to make the world better!
-- 🤔 Actively searching for full-time opportunities in data analytics, data science, and machine learning.
-- 💬 Ask me about my latest projects, I'd love to demonstrate my knowledge and ability.
-- 📫 Reach me at: [Gmail](mailto:rygelyance1@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Despite my focus on the "new" in my work, I love "old" technologies, such as mechanical watches and nixie tubes! 
-
 ## Languages & Tools I use:
 <p align="center"> 
     <!-- Languages -->
@@ -66,6 +55,17 @@ I've always been interested in tech and its capabilities, and through some of th
     <a href="https://eclipseide.org/" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="55" height="55"/></code>
 </p>
+        
+## Facts About Me:
+
+- 🔭 Currently working on several projects using real-world data!
+- 🌱 Expanding my knowledge on time-series analysis and prediction.
+- 👯 I’m looking to collaborate on any project using data to make the world better!
+- 🤔 Actively searching for full-time opportunities in data analytics, data science, and machine learning.
+- 💬 Ask me about my latest projects, I'd love to demonstrate my knowledge and ability.
+- 📫 Reach me at: [Gmail](mailto:rygelyance1@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Despite my focus on the "new" in my work, I love "old" technologies, such as mechanical watches and nixie tubes!
 
 ## 📈 GitHub Contribution Graph:
 

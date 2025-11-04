@@ -2,7 +2,7 @@
 
 # Hi, I'm Rygel!
 
-I'm an **aspiring Data Scientist** with a focus on **actionable insights and data-driven decisions**! I recently graduated from the University of Maryland, College Park, and I've received a double BS in Computer Science and Mathematics, with specializations in Machine Learning and Statistics! During the summer of 2024, I was an undergraduate research intern for UMD's Immersive Research Internship Experience (IRIE). Currently, I'm looking for my first full-time role and expanding my skills in data analysis, which I've done through **certifications in Power BI and SQL**, alongisde projects using **Python & R** for **data cleaning**, **prediction modeling**, **classification modeling**, and more!
+I'm an **aspiring Data Scientist** with a focus on **actionable insights and data-driven decisions**! I recently graduated from the University of Maryland, College Park, and I've received a double BS in Computer Science and Mathematics, with specializations in Machine Learning and Statistics! During the summer of 2024, I was an undergraduate research intern for UMD's Immersive Research Internship Experience (IRIE). Currently, I'm looking for my first full-time role and expanding my skills in data analysis, which I've done through **certifications in Power BI and SQL**, alongside projects using **Python & R** for **data cleaning**, **prediction modeling**, **classification modeling**, and more!
 
 I've always been interested in tech and its capabilities, and through some of the projects I've worked on, I've seen the power that data has to influence the world. My professional goal is to use the data from today to help make the world a little better tomorrow!
 
